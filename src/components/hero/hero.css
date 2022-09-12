@@ -1,0 +1,19 @@
+
+
+
+
+.container {
+	height: 70vh;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.hero-detail{
+	margin: auto;
+	flex:  1;
+}
+
+.headshot{
+	flex:  1;
+	margin: auto;
+}

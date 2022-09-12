@@ -1,0 +1,28 @@
+.skills {
+	max-width:  1320px;
+	margin: auto;
+	padding: 2rem;
+}
+
+.skill-progress{
+	display: flex;
+	height: 80px;
+	margin: 2rem 0;
+}
+
+#file {
+}
+
+progress[value] {
+  width: 250px;
+  height: 20px;
+}
+
+.progress-info p {
+	margin:  10px 0;
+}
+
+.stack{
+	display: flex;
+	flex-wrap: wrap;
+}

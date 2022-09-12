@@ -1,0 +1,11 @@
+.aboutme {
+	text-align: center;
+	max-width:  375px;
+	margin: auto;
+}
+
+.aboutme-width{
+	width: 100%;
+	background: #F6F8FE;
+	padding:  2rem;
+}
