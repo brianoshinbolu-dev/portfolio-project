@@ -5,7 +5,7 @@ import './aboutme.css';
 export default function AboutMe(){
 	return (
 		<React.Fragment>
-		<div className='aboutme-width'>
+		<div className='aboutme-width' id='aboutme'>
 		<div className='aboutme'>
 		<h1>AboutMe</h1>
 		<p>Brian Oshinbolu is passionate about technology whose interest is to use technology to solve problems and make life easy for everyone.</p>

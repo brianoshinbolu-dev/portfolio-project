@@ -8,3 +8,11 @@
 	justify-content: space-evenly;
 }
 
+a{
+	text-decoration:  none;
+}
+
+.nav-link:hover {
+	background-color: #07102C;
+	border-radius: 10px;
+}
